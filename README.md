@@ -9,6 +9,4 @@ Beyond AI, I have a solid foundation in embedded systems—blending hardware and
 **Catchphrase:**  
 _"Coding the future, framing the present."_
 
-*(Or let me know if you want another catchphrase suggestion!)*
-
 Stay tuned for my project links & portfolio—coming soon!

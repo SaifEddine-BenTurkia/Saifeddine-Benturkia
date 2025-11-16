@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Saif Eddine Ben Turkia</h1>
-<h3 align="center">🚀 ICT Engineering Student @ SUP'COM | Deep Reinforcement Learning & Computer Vision Enthusiast</h3>
+<h3 align="center">🚀 ICT Engineering Student @ SUP'COM |Computer Science</h3>
 
 ---
 

@@ -40,8 +40,8 @@ Beyond AI, I also have a **solid foundation in embedded systems**, blending hard
 
 <p align="left">
 <!-- Add your links here -->
-<a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://github.com/your-link" target="_blank"><img src="https://img.icons8.com/glyph-neue/48/000000/github.png"/></a>
+<a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/saif-eddine-ben-turkia-2ba9a3339/)" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="[https://github.com/your-link](https://github.com/SaifEddine-BenTurkia)" target="_blank"><img src="https://img.icons8.com/glyph-neue/48/000000/github.png"/></a>
 </p>
 
 ---
